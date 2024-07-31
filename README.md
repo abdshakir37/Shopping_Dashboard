@@ -10,13 +10,20 @@
 #### 2. Sales Analysis
 - **Sales by Category:**
   - Top categories contributing to sales are Clothing($104.26K) and Accessories($76.20K).
- 
     
+  ![Screenshot (82)](https://github.com/user-attachments/assets/c07c12aa-b30d-48e9-9d65-9bc2100b8230)
+  
 - **Sales by Item:**
   - Highest-selling items include Blouse, Dress, Shirts, Pants and Jewelry (all over $10K)
+    
+  ![Screenshot (82 1)](https://github.com/user-attachments/assets/6326d359-6ea3-4d47-b449-35b26bc29dda)
+
 - **Seasonal Sales:**
   - Sales increase in colder seasons, and decrease in warmer seasons. Fall has the highest amount of 
     sales(60.02K).
+
+    
+![Screenshot (82 2)](https://github.com/user-attachments/assets/5dfaafdf-0c22-4602-949c-0f86fc3c5620)
 
 #### 3. Customer Demographics
 - **Age Distribution:**
