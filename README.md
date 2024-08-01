@@ -28,14 +28,25 @@
 #### 3. Customer Demographics
 - **Age Distribution:**
   - Majority of customers are old (50s and above) and middle-aged (31-49).
+![Screenshot (b)](https://github.com/user-attachments/assets/ac64828b-cb4f-4574-b33e-f812f5115215)
+
+    
 - **Gender Distribution:**
   - 32% Female, 68% Male.
+ 
+![Screenshot (a)](https://github.com/user-attachments/assets/70f2680a-1a38-4683-8ed5-dcf21318350e)
+
 - **Location Distribution:**
   - High concentration of customers from California, Montana, Idaho, Alabama and Illinois.
+ 
+![Screenshot (c](https://github.com/user-attachments/assets/91426602-34ce-4759-982e-c29d20a91966)
+
 
 #### 4. Customer Behavior
 - **Subscription Impact:**
   - On average, both subscriber and non-subscriber spend about $59.
+
+
 
 #### 5. Marketing Effectiveness
 - **Promo Code Usage:**
