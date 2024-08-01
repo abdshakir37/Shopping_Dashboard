@@ -28,6 +28,7 @@
 #### 3. Customer Demographics
 - **Age Distribution:**
   - Majority of customers are old (50s and above) and middle-aged (31-49).
+    
 ![Screenshot (b)](https://github.com/user-attachments/assets/ac64828b-cb4f-4574-b33e-f812f5115215)
 
     
@@ -41,20 +42,24 @@
  
 ![Screenshot (c](https://github.com/user-attachments/assets/91426602-34ce-4759-982e-c29d20a91966)
 
-
 #### 4. Customer Behavior
 - **Subscription Impact:**
   - On average, both subscriber and non-subscriber spend about $59.
 
-
+![Screenshot (e](https://github.com/user-attachments/assets/93cdccf6-fbfd-456e-a38b-08d7ecf3f87d)
 
 #### 5. Marketing Effectiveness
 - **Promo Code Usage:**
   - Promo codes used in 43% of purchases.
 
+![Screenshot (f)](https://github.com/user-attachments/assets/c3a591d1-673f-4ee9-9605-3917aa336093)
+
 #### 6. Logistics and Payment
 - **Shipping Types:**
   - Free shipping is the most favoured method, followed by Standard shipping and store pickup.
+
+
+![Screenshot (d)](https://github.com/user-attachments/assets/3bbe29c5-b7fa-4112-badd-322575e70d49)
 
 ### Recommendations
 1. **Promote Subscriptions:**
